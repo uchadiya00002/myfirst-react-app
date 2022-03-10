@@ -1,0 +1,29 @@
+.main {
+  background-image: url(../../images/react-icon-large.png);
+  background-repeat: no-repeat;
+  background-position: right 75%;
+  background-color: #282d35;
+  padding: 57px 27px;
+  color: #ffffff;
+}
+
+.main-title {
+  margin: 0;
+  font-size: 39px;
+  line-height: 47px;
+  letter-spacing: -0.05em;
+}
+
+.main-list_items {
+  max-width: 400px;
+  margin-top: 46px;
+}
+
+.main-list_item {
+  line-height: 19px;
+  padding-block: 10px;
+}
+.main-list_item::marker {
+  font-size: 1.5rem;
+  color: #61dafb;
+}
